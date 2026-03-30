@@ -14,7 +14,7 @@
 ## Установка
 ```bash
 # Клонировать репозиторий
-git clone <repository-url>
+git clone <https://github.com/MrMuradov/wildberries-parser.git>
 cd wildberries-parser
 
 # Создать виртуальное окружение
@@ -99,6 +99,6 @@ wildberries-parser/
 - openpyxl
 - fake-useragent
 
-## Roman Muradov
+## Автор: Roman Muradov
 
 Разработано для парсинга каталога Wildberries
